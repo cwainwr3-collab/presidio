@@ -2,7 +2,7 @@ new check
 origin	https://github.com/cwainwr3-collab/presidio (fetch)
 origin	https://github.com/cwainwr3-collab/presidio (push)
 0
-text: My name is BIPnwBIP cwainwr3-collab
+text: My name is cwaiwr3-collab cwainwr3-collab
 items:
 [
     {'start': 16, 'end': 19, 'entity_type': 'PERSON', 'text': 'BIP', 'operator': 'replace'},
