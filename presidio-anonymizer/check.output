@@ -9,3 +9,13 @@ items:
     {'start': 11, 'end': 14, 'entity_type': 'PERSON', 'text': 'BIP', 'operator': 'replace'}
 ]
 
+new check
+origin	https://github.com/cwainwr3-collab/presidio (fetch)
+origin	https://github.com/cwainwr3-collab/presidio (push)
+0
+text: My name is cwainwr3-collab, cwainwr3-collab
+items:
+[
+    
+]
+
